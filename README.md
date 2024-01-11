@@ -1,4 +1,4 @@
-# vue-week13
+# vue3-week13
 
 ## Project setup
 ```
